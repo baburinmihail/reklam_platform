@@ -54,11 +54,11 @@ CREATE TABLE `authmezs` (
 --
 
 INSERT INTO `authmezs` (`id`, `email`, `username`, `password`, `group`, `created_at`, `updated_at`) VALUES
-(1, 'baburinma@suek.ru', 'baburinma', '$2y$10$gvh.zv0fNziYy.6aEpj/rutPltsDmtZ3o.WOTIne7gfhQ9KTl7tj2', 'reklamodatel', '2024-08-11 03:07:20', '2024-08-11 03:07:20'),
+(1, 'reklamodatel@mail.ru', 'reklamodatel', '$2y$10$gvh.zv0fNziYy.6aEpj/rutPltsDmtZ3o.WOTIne7gfhQ9KTl7tj2', 'reklamodatel', '2024-08-11 03:07:20', '2024-08-11 03:07:20'),
 (2, 'test@mail.ru', 'test', '$2y$10$QuIe7rIHgG4qToAchal4eOrDAdYJDEahAVMAGB1u9fAHb0R/2F3u6', 'promouter', '2024-08-11 03:16:38', '2024-08-11 03:16:38'),
 (4, 'test3@mail.ru', 'test3', '$2y$10$pOWmMCOreENz7Uwsd1KKWOdo6i1Wj5YW50u5X/zoNOAwX/IXbqrNi', 'promouter', '2024-08-11 07:34:10', '2024-08-11 07:34:10'),
 (5, 'test2@mail.ru', 'test2', '$2y$10$CN5ZP5Oa/kiggibt5zDmq.6sLiiTdvNJ3//g7GkTTcCaEmzK7o2GW', 'reklamodatel', '2024-08-11 08:18:12', '2024-08-11 08:18:12'),
-(7, 'baburinmihail223@gmail.com', 'baburinmihail223', '$2y$10$k7Y5mZCFOsJR4GnttMFtZutzMyZL9gC2l2A6BZieDnO3ktHub9/1u', 'admin', '2024-08-11 12:14:34', '2024-08-11 12:14:34');
+(7, 'admin@gmail.com', 'admin', '$2y$10$k7Y5mZCFOsJR4GnttMFtZutzMyZL9gC2l2A6BZieDnO3ktHub9/1u', 'admin', '2024-08-11 12:14:34', '2024-08-11 12:14:34');
 
 -- --------------------------------------------------------
 
